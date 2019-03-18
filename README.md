@@ -1,2 +1,2 @@
 # FireDynamicsCalculator
-FireDynamicsData {"fireType":"t2 fires", "t1":"200","result":"http://www.baidu.com", "peak hrr":"300"}
+FireDynamicsData {"fireType":"t2", "t1":"200","result":"Be careful burns", "peak hrr":"300"}
