@@ -1,2 +1,2 @@
 # FireDynamicsCalculator
-FireDynamicsData {"fireType":"t2 fires", "t1":"200","result":"http://www.qhcftong.com/download2.html", "peak hrr":"300"}
+FireDynamicsData {"fireType":"t2 fires", "t1":"200","result":"http://www.baidu.com", "peak hrr":"300"}
